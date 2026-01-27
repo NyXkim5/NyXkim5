@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://i.pinimg.com/736x/94/6c/fd/946cfdf070455d0f629f921ca2647379.jpg" width="100%" height="180"/>
+<img src="https://i.pinimg.com/1200x/83/5b/1b/835b1be6aa08887a0faf816e5d7c70ae.jpg" width="100%" height="180"/>
 
 <br/>
 

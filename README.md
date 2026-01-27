@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:21262d,100:0d1117&height=200&section=header&text=Jay%20Kim&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CpE%20@%20UCI%20•%20CEO%20@%20Archv&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:21262d,100:0d1117&height=250&section=header&text=Jay%20Kim&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=CpE%20@%20UCI&descSize=20&descAlignY=60&descAlign=50" width="100%"/>
+
+<br/>
 
 <!-- Social Links Bar -->
 <a href="https://www.linkedin.com/in/joonhyuknkim/">
@@ -17,28 +19,23 @@
   <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
 </a>
 
-</div>
+<br/><br/>
 
----
+</div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anis/Tarikul-Islam-Anis/main/assets/Hi.gif" width="28px"> About Me
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-Hello! I'm **Jay Kim**, a Computer Engineering student at **UC Irvine** and **CEO & Co-Founder of Archv** — building AI compliance infrastructure for regulated industries.
+I'm a **Computer Engineering** student at **UC Irvine** and **CEO & Co-Founder of Archv** — building AI compliance infrastructure for regulated industries.
 
-- 🏢 **CEO & Co-Founder** @ Archv
-- 🎓 **Computer Engineering** @ UC Irvine '27
-- 🎮 **NVIDIA Inception** Program Member
-- 🛩️ Former President @ UAV@UCI (25-member drone team)
-- 💊 iOS Health Developer & HIPAA Expert
-- 🔐 Defense Tech & Autonomous Systems Enthusiast
+🏢 CEO @ Archv &nbsp;•&nbsp; 🎮 NVIDIA Inception &nbsp;•&nbsp; 🛩️ UAV@UCI
 
 </td>
-<td width="40%" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2OWNrOWFjNnNsNnRiY2NjZnRhcjFnZzRyOXVhZWVhMnNhbjRjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+<td width="45%" align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2OWNrOWFjNnNsNnRiY2NjZnRhcjFnZzRyOXVhZWVhMnNhbjRjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
 </td>
 </tr>
 </table>
@@ -49,19 +46,18 @@ Hello! I'm **Jay Kim**, a Computer Engineering student at **UC Irvine** and **CE
 
 <div align="center">
 
-![Swift](https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=ffffff)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=ffffff)
-![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=ffffff)
-
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=ffffff)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=ffffff)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=ffffff)
+![Swift](https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=ffffff)
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=ffffff)
 
 </div>
 
@@ -74,12 +70,8 @@ Hello! I'm **Jay Kim**, a Computer Engineering student at **UC Irvine** and **CE
 <img src="https://github-readme-stats.vercel.app/api?username=NyXkim5&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&ring_color=ffffff" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyXkim5&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ffffff&sideLabels=ffffff&dates=555555" width="49%"/>
 
-</div>
-
-<br/>
-
-<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NyXkim5&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=21262d&hide_border=true" width="98%"/>
+
 </div>
 
 ---
@@ -96,47 +88,12 @@ Hello! I'm **Jay Kim**, a Computer Engineering student at **UC Irvine** and **CE
 
 ---
 
-## 🚀 Projects
-
-<div align="center">
-
-<a href="https://www.archvai.com/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NyXkim5&repo=archv-portfolio&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/NyXkim5/SIGHTSNAP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NyXkim5&repo=SIGHTSNAP&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" />
-</a>
-
-</div>
-
----
-
-## 📜 Journey
-
-<div align="center">
-
-| Year | Milestone |
-|:----:|:----------|
-| **2025** | 🏢 Founded **Archv** — AI Compliance for Legal, Healthcare, Education, Gov |
-| | 🎮 **NVIDIA Inception** Program Member |
-| **2024** | 💼 Software Engineer @ **MedVanta** — HIPAA-compliant healthcare systems |
-| | 🛩️ President @ **UAV@UCI** — Led 25-member autonomous drone team |
-| **2023** | 🎓 Started **Computer Engineering** @ UC Irvine |
-
-</div>
-
----
-
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=NyXkim5&style=for-the-badge&color=555555&label=PROFILE+VIEWS)
 
-<br/>
-
 *"Dreams onto paper and a breath of life."*
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:21262d,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:21262d,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>

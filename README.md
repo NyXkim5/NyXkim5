@@ -1,20 +1,20 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:1a4d1a,100:0d1117&height=200&section=header&text=Jay%20Kim&fontSize=70&fontColor=00ff00&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineer%20•%20CEO%20@%20Archv&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,50:21262d,100:0d1117&height=200&section=header&text=Jay%20Kim&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CpE%20@%20UCI%20•%20CEO%20@%20Archv&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 
 <!-- Social Links Bar -->
 <a href="https://www.linkedin.com/in/joonhyuknkim/">
-  <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff00" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/>
 </a>
 <a href="mailto:jay@archvai.com">
-  <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff00" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"/>
 </a>
 <a href="https://www.archvai.com/">
-  <img src="https://img.shields.io/badge/ARCHV.AI-0d1117?style=for-the-badge&logo=safari&logoColor=00ff00" alt="Archv"/>
+  <img src="https://img.shields.io/badge/ARCHV.AI-0d1117?style=for-the-badge&logo=safari&logoColor=ffffff" alt="Archv"/>
 </a>
 <a href="https://github.com/NyXkim5">
-  <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=00ff00" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
 </a>
 
 </div>
@@ -49,19 +49,19 @@ Hello! I'm **Jay Kim**, a Computer Engineering student at **UC Irvine** and **CE
 
 <div align="center">
 
-![Swift](https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=00ff00)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff00)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00ff00)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00ff00)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00ff00)
-![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=00ff00)
+![Swift](https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=ffffff)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=ffffff)
 
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00ff00)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=00ff00)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00ff00)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00ff00)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=00ff00)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff00)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=ffffff)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=ffffff)
 
 </div>
 
@@ -71,15 +71,15 @@ Hello! I'm **Jay Kim**, a Computer Engineering student at **UC Irvine** and **CE
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NyXkim5&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&ring_color=00ff00" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NyXkim5&hide_border=true&background=0d1117&stroke=00ff00&ring=00ff00&fire=00ff00&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=00ff00&sideLabels=00ff00&dates=555555" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NyXkim5&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&ring_color=ffffff" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NyXkim5&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ffffff&sideLabels=ffffff&dates=555555" width="49%"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NyXkim5&bg_color=0d1117&color=00ff00&line=00ff00&point=ffffff&area=true&area_color=00ff00&hide_border=true" width="98%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NyXkim5&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=21262d&hide_border=true" width="98%"/>
 </div>
 
 ---
@@ -101,10 +101,10 @@ Hello! I'm **Jay Kim**, a Computer Engineering student at **UC Irvine** and **CE
 <div align="center">
 
 <a href="https://www.archvai.com/">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NyXkim5&repo=archv-portfolio&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NyXkim5&repo=archv-portfolio&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" />
 </a>
 <a href="https://github.com/NyXkim5/SIGHTSNAP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=NyXkim5&repo=SIGHTSNAP&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=NyXkim5&repo=SIGHTSNAP&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9" />
 </a>
 
 </div>
@@ -129,7 +129,7 @@ Hello! I'm **Jay Kim**, a Computer Engineering student at **UC Irvine** and **CE
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=NyXkim5&style=for-the-badge&color=00ff00&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=NyXkim5&style=for-the-badge&color=555555&label=PROFILE+VIEWS)
 
 <br/>
 
@@ -137,6 +137,6 @@ Hello! I'm **Jay Kim**, a Computer Engineering student at **UC Irvine** and **CE
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a4d1a,100:0d1117&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:21262d,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>

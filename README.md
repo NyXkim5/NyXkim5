@@ -17,9 +17,6 @@
 <a href="mailto:jay@archvai.com">
   <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"/>
 </a>
-<a href="https://www.archvai.com/">
-  <img src="https://img.shields.io/badge/ARCHV.AI-0d1117?style=for-the-badge&logo=safari&logoColor=ffffff" alt="Archv"/>
-</a>
 <a href="https://github.com/NyXkim5">
   <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub"/>
 </a>
@@ -34,13 +31,15 @@
 <tr>
 <td width="60%" valign="top">
 
-I'm **Jay**, a Computer Engineering student at **UC Irvine** and **CEO & Co-Founder of Archv**.
+I'm **Jay**, a Computer Engineering student at **UC Irvine**.
 
 I enjoy **designing**, **drawing**, **working out**, and **trying new foods**!
 
-At a technical level, I'm passionate about **AI applications in the health industry** — building compliant infrastructure for regulated healthcare systems.
+At a technical level, I'm passionate about **AI applications in the health industry**.
 
-🏢 CEO @ Archv &nbsp;•&nbsp; 🎮 NVIDIA Inception &nbsp;•&nbsp; 🛩️ UAV@UCI
+**Activities & Societies:**
+
+🛩️ UAV@UCI President • 🔐 Cyber@UCI Graphics • 💻 Hack@UCI Logistics • 🤖 AI@UCI Graphics • ✈️ VFS@UCI Graphics • 🏛️ ASUCI SSVP • ⚙️ Theta Tau Pi Delta
 
 </td>
 <td width="40%" align="center">

@@ -91,33 +91,8 @@ At a technical level, I'm passionate about **AI applications in the health indus
 
 ---
 
-## 💻 Terminal
-
 <div align="center">
-
-```
-┌──────────────────────────────────────────────────────────────────┐
-│                                                                  │
-│   $ whoami                                                       │
-│   jay@uci ~ Computer Engineering Student                         │
-│                                                                  │
-│   $ cat interests.txt                                            │
-│   > AI/ML in Healthcare                                          │
-│   > Full-Stack Development                                       │
-│   > Product Design                                               │
-│   > Drawing & Anime                                              │
-│                                                                  │
-│   $ echo $CURRENT_STATUS                                         │
-│   Building cool things @ UCI 🚀                                  │
-│                                                                  │
-│   $ uptime                                                       │
-│   Always coding, always learning...                              │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=%3E+Hello+World!;%3E+Let's+build+something+amazing...;%3E+AI+%2B+Healthcare+%3D+%E2%9D%A4%EF%B8%8F;%3E+Code.+Design.+Create." alt="Typing SVG" />
-
+<img src="https://raw.githubusercontent.com/NyXkim5/NyXkim5/main/audio-wave-ever1.gif" width="100%"/>
 </div>
 
 ---

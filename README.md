@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://i.pinimg.com/736x/94/6c/fd/946cfdf070455d0f629f921ca2647379.jpg" width="100%"/>
+<img src="https://i.pinimg.com/736x/94/6c/fd/946cfdf070455d0f629f921ca2647379.jpg" width="100%" height="180"/>
 
 <br/>
 
@@ -32,15 +32,19 @@
 
 <table>
 <tr>
-<td width="55%" valign="top">
+<td width="60%" valign="top">
 
-I'm a **Computer Engineering** student at **UC Irvine** and **CEO & Co-Founder of Archv** — building AI compliance infrastructure for regulated industries.
+I'm **Jay**, a Computer Engineering student at **UC Irvine** and **CEO & Co-Founder of Archv**.
+
+I enjoy **designing**, **drawing**, **working out**, and **trying new foods**!
+
+At a technical level, I'm passionate about **AI applications in the health industry** — building compliant infrastructure for regulated healthcare systems.
 
 🏢 CEO @ Archv &nbsp;•&nbsp; 🎮 NVIDIA Inception &nbsp;•&nbsp; 🛩️ UAV@UCI
 
 </td>
-<td width="45%" align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd2OWNrOWFjNnNsNnRiY2NjZnRhcjFnZzRyOXVhZWVhMnNhbjRjciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+<td width="40%" align="center">
+<img src="https://i.pinimg.com/736x/03/db/90/03db9048017a0d6ec8798788f4fa3c06.jpg" width="180"/>
 </td>
 </tr>
 </table>

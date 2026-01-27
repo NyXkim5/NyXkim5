@@ -32,6 +32,8 @@ I enjoy **designing**, **drawing**, **working out**, and **trying new foods**!
 
 At a technical level, I'm passionate about **AI applications in the health industry**.
 
+🎬 Fav Animes: **Code Geass** • **One Piece** • **Seven Deadly Sins**
+
 **Activities & Societies:**
 
 🛩️ UAV@UCI President • 🔐 Cyber@UCI Graphics • 💻 Hack@UCI Logistics • 🤖 AI@UCI Graphics • ✈️ VFS@UCI Graphics • 🏛️ ASUCI SSVP • ⚙️ Theta Tau Pi Delta
@@ -49,8 +51,6 @@ At a technical level, I'm passionate about **AI applications in the health indus
 
 <div align="center">
 
-**Languages**
-
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=ffffff)
@@ -59,40 +59,20 @@ At a technical level, I'm passionate about **AI applications in the health indus
 ![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=ffffff)
 ![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=ffffff)
 ![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=ffffff)
-
-**AI / ML**
-
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=ffffff)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=ffffff)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=ffffff)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=ffffff)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=ffffff)
-![scikit-learn](https://img.shields.io/badge/ScikitLearn-0d1117?style=flat-square&logo=scikitlearn&logoColor=ffffff)
-
-**Frontend**
-
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=ffffff)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=ffffff)
-
-**Backend & Infra**
-
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=ffffff)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=ffffff)
-![Redis](https://img.shields.io/badge/Redis-0d1117?style=flat-square&logo=redis&logoColor=ffffff)
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=ffffff)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=ffffff)
-
-**Design**
-
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=ffffff)
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-0d1117?style=flat-square&logo=adobexd&logoColor=ffffff)
-![Framer](https://img.shields.io/badge/Framer-0d1117?style=flat-square&logo=framer&logoColor=ffffff)
 
 </div>
 
@@ -114,11 +94,7 @@ At a technical level, I'm passionate about **AI applications in the health indus
 ## 🐍 Contribution Snake
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NyXkim5/NyXkim5/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NyXkim5/NyXkim5/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/NyXkim5/NyXkim5/output/github-snake-dark.svg" />
-</picture>
+<img src="https://raw.githubusercontent.com/NyXkim5/NyXkim5/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---

@@ -92,7 +92,7 @@ At a technical level, I'm passionate about **AI applications in the health indus
 ---
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/NyXkim5/NyXkim5/main/audio-wave-ever1.gif" width="600"/>
+<img src="https://raw.githubusercontent.com/NyXkim5/NyXkim5/main/audio-wave-ever1.gif" width="350"/>
 </div>
 
 ---

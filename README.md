@@ -5,6 +5,11 @@
 
 <br/>
 
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=435&lines=Computer+Engineering+%40+UCI;AI+%2B+Healthcare+Enthusiast;UAV%40UCI+President" alt="Typing SVG" />
+
+<br/>
+
 <!-- Social Links Bar -->
 <a href="https://www.linkedin.com/in/joonhyuknkim/">
   <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/>
@@ -86,6 +91,20 @@ At a technical level, I'm passionate about **AI applications in the health indus
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyXkim5&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ffffff&sideLabels=ffffff&dates=555555" width="49%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NyXkim5&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=21262d&hide_border=true" width="98%"/>
+
+<img src="https://raw.githubusercontent.com/NyXkim5/NyXkim5/output/github-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+## <img src="https://media.giphy.com/media/J5B6OqkpOfFra5FpSz/giphy.gif" width="28px"> Now Playing
+
+<div align="center">
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=true" alt="Spotify Now Playing"/>
+</a>
 
 </div>
 

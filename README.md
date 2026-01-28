@@ -100,11 +100,7 @@ At a technical level, I'm passionate about **AI applications in the health indus
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NyXkim5/NyXkim5/main/audio-wave-ever1.gif" width="300"/>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bzoyxnfwob0n25u65mmzhyqd8&cover_image=true&theme=novatorem&bar_color=ffffff&bar_color_cover=true" alt="Spotify"/>
-</a>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bzoyxnfwob0n25u65mmzhyqd8&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 

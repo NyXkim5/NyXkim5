@@ -99,12 +99,16 @@ At a technical level, I'm passionate about **AI applications in the health indus
 ---
 
 <div align="center">
+<table><tr>
+<td align="center">
 
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bzoyxnfwob0n25u65mmzhyqd8&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false&mode=dark" alt="spotify-github-profile"/>
-</a>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bzoyxnfwob0n25u65mmzhyqd8&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+</td>
+<td align="center">
 <img src="https://raw.githubusercontent.com/NyXkim5/NyXkim5/main/kiki-jiji.gif" width="200"/>
-
+</td>
+</tr></table>
 </div>
 
 ---

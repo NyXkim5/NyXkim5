@@ -6,7 +6,7 @@
 <br/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=435&lines=Computer+Engineering+%40+UCI;AI+%2B+Healthcare+Enthusiast;UAV%40UCI+President" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=435&lines=Jay+Kim+%7C+%EA%B9%80%EC%A4%80%ED%98%81;Computer+Engineering+%40+UCI;%EC%BB%B4%ED%93%A8%ED%84%B0+%EA%B3%B5%ED%95%99;AI+%2B+Healthcare+Enthusiast;UAV%40UCI+President;%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88+%2B+%EA%B0%9C%EB%B0%9C%EC%9E%90" alt="Typing SVG" />
 
 <br/>
 
@@ -54,7 +54,12 @@ At a technical level, I'm passionate about **AI applications in the health indus
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"> Technologies
 
-<div align="center">
+<table>
+<tr>
+<td width="30%" align="center">
+<img src="https://raw.githubusercontent.com/NyXkim5/NyXkim5/main/kiki-jiji.gif" width="220"/>
+</td>
+<td width="70%">
 
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ffffff)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=ffffff)
@@ -79,7 +84,9 @@ At a technical level, I'm passionate about **AI applications in the health indus
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=ffffff)
 ![Figma](https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=ffffff)
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -99,16 +106,9 @@ At a technical level, I'm passionate about **AI applications in the health indus
 ---
 
 <div align="center">
-<table><tr>
-<td align="center">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bzoyxnfwob0n25u65mmzhyqd8&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=000000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/NyXkim5/NyXkim5/main/kiki-jiji.gif" width="200"/>
-</td>
-</tr></table>
 </div>
 
 ---

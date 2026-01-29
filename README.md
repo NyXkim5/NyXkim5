@@ -88,7 +88,7 @@ At a technical level, I'm passionate about **AI applications in the health indus
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=NyXkim5&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&ring_color=ffffff" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NyXkim5&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ffffff&sideLabels=ffffff&dates=555555" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=NyXkim5&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ffffff&sideLabels=ffffff&dates=555555" width="49%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NyXkim5&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=21262d&hide_border=true" width="98%"/>
 
@@ -100,7 +100,10 @@ At a technical level, I'm passionate about **AI applications in the health indus
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bzoyxnfwob0n25u65mmzhyqd8&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false&mode=dark)](https://github.com/kittinan/spotify-github-profile)
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=bzoyxnfwob0n25u65mmzhyqd8&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false&mode=dark" alt="spotify-github-profile"/>
+</a>
+<img src="https://raw.githubusercontent.com/NyXkim5/NyXkim5/main/kiki-jiji.gif" width="200"/>
 
 </div>
 

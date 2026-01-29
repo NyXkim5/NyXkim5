@@ -102,7 +102,7 @@ At a technical level, I'm passionate about **AI applications in the health indus
 <table><tr>
 <td align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bzoyxnfwob0n25u65mmzhyqd8&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&profanity=false&bar_color=ffffff&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=bzoyxnfwob0n25u65mmzhyqd8&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=000000&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </td>
 <td align="center">

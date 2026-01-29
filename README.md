@@ -52,7 +52,7 @@ At a technical level, I'm passionate about **AI applications in the health indus
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28px"> Technologies
+## 🐱 Technologies
 
 <table>
 <tr>
@@ -90,12 +90,9 @@ At a technical level, I'm passionate about **AI applications in the health indus
 
 ---
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ez4/giphy.gif" width="28px"> Statistics
+## 😺 Statistics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NyXkim5&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&ring_color=ffffff" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=NyXkim5&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ffffff&sideLabels=ffffff&dates=555555" width="49%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NyXkim5&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=21262d&hide_border=true" width="98%"/>
 

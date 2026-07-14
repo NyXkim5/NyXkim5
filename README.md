@@ -1,7 +1,6 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://raw.githubusercontent.com/NyXkim5/NyXkim5/main/banner.png" width="100%"/>
 
 <br/>
 

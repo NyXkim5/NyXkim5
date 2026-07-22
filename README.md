@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Header Banner -->
-
 <br/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=435&lines=Jay+Kim+%7C+%EA%B9%80%EC%A4%80%ED%98%81;Computer+Engineering+%40+UCI;%EC%BB%B4%ED%93%A8%ED%84%B0+%EA%B3%B5%ED%95%99;AI+%2B+Healthcare+Enthusiast;UAV%40UCI+President;%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88+%2B+%EA%B0%9C%EB%B0%9C%EC%9E%90" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&background=0D111700&center=true&vCenter=true&width=460&lines=Jay+Kim+%7C+%EA%B9%80%EC%A4%80%ED%98%81;Computer+Engineering+%40+UCI;UAV%40UCI+President;Autonomous+Systems+%2B+Defense+Tech;Drones+%7C+Embedded+%7C+AI;%EB%AC%B4%EC%9D%B8+%ED%95%AD%EA%B3%B5+%EC%8B%9C%EC%8A%A4%ED%85%9C" alt="Typing SVG" />
 
 <br/>
 
@@ -24,7 +22,7 @@
 
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anis/Tarikul-Islam-Anis/main/assets/Hi.gif" width="28px"> About Me
+## 🛩️ About Me
 
 <table>
 <tr>
@@ -32,9 +30,13 @@
 
 I'm **Jay**, a Computer Engineering student at **UC Irvine**.
 
-I enjoy **designing**, **drawing**, **working out**, and **trying new foods**!
+I build **drones**, **autonomous systems**, and **defense tech**.
 
-At a technical level, I'm passionate about **AI applications in the health industry**.
+I lead **UAV@UCI** as President. Flight controllers, embedded firmware, computer vision, and airframes.
+
+At a technical level, I'm focused on **AI for autonomous flight and defense applications**.
+
+Off the bench, I **design**, **draw**, **work out**, and **hunt for new food**.
 
 🎬 Fav Animes: **Code Geass** • **One Piece** • **Seven Deadly Sins**
 
@@ -51,7 +53,7 @@ At a technical level, I'm passionate about **AI applications in the health indus
 
 ---
 
-## 🐱 Technologies
+## 🛰️ Flight Deck
 
 <table>
 <tr>
@@ -60,21 +62,32 @@ At a technical level, I'm passionate about **AI applications in the health indus
 </td>
 <td width="70%">
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=ffffff)
-![Swift](https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=ffffff)
-![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=ffffff)
+**Systems & Embedded**
+
 ![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=ffffff)
+![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=cplusplus&logoColor=ffffff)
 ![Rust](https://img.shields.io/badge/Rust-0d1117?style=flat-square&logo=rust&logoColor=ffffff)
 ![Go](https://img.shields.io/badge/Go-0d1117?style=flat-square&logo=go&logoColor=ffffff)
+
+**AI & Autonomy**
+
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=ffffff)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=ffffff)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=ffffff)
 ![OpenAI](https://img.shields.io/badge/OpenAI-0d1117?style=flat-square&logo=openai&logoColor=ffffff)
 ![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=flat-square&logo=chainlink&logoColor=ffffff)
+
+**Application & Interface**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=ffffff)
+![Swift](https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=ffffff)
 ![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=ffffff)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=ffffff)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=ffffff)
+
+**Backend & Infra**
+
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=ffffff)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=ffffff)
@@ -89,7 +102,7 @@ At a technical level, I'm passionate about **AI applications in the health indus
 
 ---
 
-## 😺 Statistics
+## 🎯 Telemetry
 
 <div align="center">
 
